@@ -1,5 +1,5 @@
 /*eslint
-no-console: 0
+no-console: 1
 */
 
 var gulp = require('gulp');
@@ -33,7 +33,7 @@ gulp.task('git-release', ['compress'], function(cb){
 });
 
 
-// Bump (increase) the version number
+// Bump (increase) the version numbers
 gulp.task('bump-patch', function(){
 	return gulp.src(['./package.json', './bower.json'])
 		.pipe(bump({type:'patch'}))
