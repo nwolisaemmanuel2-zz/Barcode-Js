@@ -88,7 +88,7 @@ JsBarcode("#barcode")
   .options({font: "OCR-B"}) // Will affect all barcodes
   .EAN13("1234567890128", {fontSize: 18, textMargin: 0})
   .blank(20) // Create space between the barcodes
-  .EAN5("12345", {height: 85, textPosition: "top", fontSize: 16, marginTop: 15})
+  .EAN5("12345", {height: 86, textPosition: "top", fontSize: 16, marginTop: 15})
   .render();
 ````
 ##### Result:
@@ -158,7 +158,7 @@ You are done! Go generate some barcodes :smile:
 
 Bower and npm:
 ----
-You can also use [Bower](http://bower.io) or [npm](https://www.npmjs.com) to install and manage the library.
+You can use [Bower](http://bower.io) or [npm](https://www.npmjs.com) to install and manage the library.
 ````bash
 bower install jsbarcode --save
 ````
