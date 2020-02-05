@@ -1,5 +1,4 @@
 /*eslint no-console: 0 */
-
 var gulp = require('gulp');
 var request = require('request');
 var fs = require('fs');
