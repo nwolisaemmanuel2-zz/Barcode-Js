@@ -11,7 +11,7 @@ Then run ``npm install`` to set everything up. Make sure you have all dependenci
 
 You are now ready to start doing your changes.
 
-JsBarcode is using [gulp](http://gulpjs.com/) in the building step. Here comes some commands that will come handy when developing.
+JsBarcode is using [gulp](http://gulpjs.com/) in the building step. Here come some commands that will come handy when developing.
 
 ````bash
 gulp compile # Compile the code (for nodejs)
