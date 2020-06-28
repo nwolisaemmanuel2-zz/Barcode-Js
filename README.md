@@ -18,6 +18,7 @@
 
 
 
+
 <p align="center">
 	<a href="http://lindell.me/JsBarcode"><img src="http://lindell.me/JsBarcode/other/logo.svg" alt="JsBarcode"/></a>
 	<br><br>
