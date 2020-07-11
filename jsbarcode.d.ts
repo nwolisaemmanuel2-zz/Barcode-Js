@@ -9,6 +9,7 @@
 
 
 
+
 declare namespace JsBarcode {
   interface BaseOptions {
     width?: number;
