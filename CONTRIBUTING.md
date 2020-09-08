@@ -5,7 +5,6 @@
 
 
 
-
 Getting Started
 ----
 We would :heart: to have pull requests for you. So here is how you start development with JsBarcode.
